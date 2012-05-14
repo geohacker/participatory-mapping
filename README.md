@@ -20,19 +20,19 @@ Outline
         * Background
         * Mission
     * Use Cases <5 minutes>
-        ** Haiti 
+        * Haiti 
             ^ How? - Satellite Images, SMS/Realtime responses - Save lives.
             ^ http://www.youtube.com/watch?v=OF-JuFxhDT8
             
-        ** Highlight Map Kibera - the story [creating data]- 
+        * Highlight Map Kibera - the story [creating data]- 
             http://tools.geofabrik.de/mc/?mt0=mapnik&mt1=googlemap&lon=36.79154&lat=-1.31185&zoom=15
             http://www.youtube.com/watch?v=GMiERykoJfQ
             http://voiceofkibera.org/main
             http://kiberanewsnetwork.org/
-            
-        ** Cholera Map by John Snow [mashup]
-        ** Ushahidi [collecting data and mashup]
-        ** Cedar Grove story http://www.psmag.com/culture/the-revolution-will-be-mapped-7130/ [mashup]
+
+        * Cholera Map by John Snow [mashup]
+        * Ushahidi [collecting data and mashup]
+        * Cedar Grove story http://www.psmag.com/culture/the-revolution-will-be-mapped-7130/ [mashup]
 4. Tools <8 minutes>
     Collect
     * OSM Ecosystem - Endless tools.
