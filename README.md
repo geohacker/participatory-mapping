@@ -24,7 +24,7 @@ Outline
             ^ How? - Satellite Images, SMS/Realtime responses - Save lives.
             ^ http://www.youtube.com/watch?v=OF-JuFxhDT8
             
-        ** Highlight Map Kibera - the story [creating data]
+        ** Highlight Map Kibera - the story [creating data]- http://tools.geofabrik.de/mc/?mt0=mapnik&mt1=googlemap&lon=36.79154&lat=-1.31185&zoom=15
         ** Cholera Map by John Snow [mashup]
         ** Ushahidi [collecting data and mashup]
         ** Cedar Grove story http://www.psmag.com/culture/the-revolution-will-be-mapped-7130/ [mashup]
@@ -33,7 +33,7 @@ Outline
     * OSM Ecosystem - Endless tools.
         **  Web-based (Potlach)
         **  Desktop-based (JOSM)
-        **  Paper-based (WalkingPapers)
+        **  Paper-based (WalkingPapers) - http://walking-papers.org/
     * Ushahidi
    Coordinate
     * HOT - just mention.
@@ -41,9 +41,9 @@ Outline
         ** HOT Exports - http://hot-export.geofabrik.de/
         ** Separate Datastore - https://github.com/hotosm/sds-server
     Visualize/Communicate
-    * Geocommons.org
+    * Geocommons.org - http://geocommons.org
     * Ushahidi
-    * MapBox.com 
+    * MapBox.com  - http://mapbox.com
     * Q GIS
         
 Questions for audience:
