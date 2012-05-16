@@ -219,3 +219,14 @@ padding-top: 40px;
 font-family: 'Belleza';
         text-shadow: #ccd 0px 0px 0px;
 }
+
+#slide9 {
+
+background: url("../images/title.png") no-repeat;
+
+}
+
+#small {
+
+    font-size:16px;
+}
