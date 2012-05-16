@@ -20,26 +20,31 @@ Outline
         * Background
         * Mission
     * Use Cases <5 minutes>
-        ** Haiti 
-            ^ How? - Satellite Images, SMS/Realtime responses - Save lives.
-            ^ http://www.youtube.com/watch?v=OF-JuFxhDT8
+        * Haiti 
+            * How? - Satellite Images, SMS/Realtime responses - Save lives.
+            * http://www.youtube.com/watch?v=OF-JuFxhDT8
             
-        ** Highlight Map Kibera - the story [creating data]- http://tools.geofabrik.de/mc/?mt0=mapnik&mt1=googlemap&lon=36.79154&lat=-1.31185&zoom=15
-        ** Cholera Map by John Snow [mashup]
-        ** Ushahidi [collecting data and mashup]
-        ** Cedar Grove story http://www.psmag.com/culture/the-revolution-will-be-mapped-7130/ [mashup]
+        * Highlight Map Kibera - the story
+            * http://tools.geofabrik.de/mc/?mt0=mapnik&mt1=googlemap&lon=36.79154&lat=-1.31185&zoom=15
+            * http://www.youtube.com/watch?v=GMiERykoJfQ
+            * http://voiceofkibera.org/main
+            * http://kiberanewsnetwork.org/
+
+        * Cholera Map by John Snow [mashup]
+        * Ushahidi [collecting data and mashup]
+        * Cedar Grove story http://www.psmag.com/culture/the-revolution-will-be-mapped-7130/ [mashup]
 4. Tools <8 minutes>
     Collect
     * OSM Ecosystem - Endless tools.
-        **  Web-based (Potlach)
-        **  Desktop-based (JOSM)
-        **  Paper-based (WalkingPapers) - http://walking-papers.org/
+        *  Web-based (Potlach)
+        *  Desktop-based (JOSM)
+        *  Paper-based (WalkingPapers) - http://walking-papers.org/
     * Ushahidi
    Coordinate
     * HOT - just mention.
-        ** Tasking Manager - http://tasks.hotosm.org/
-        ** HOT Exports - http://hot-export.geofabrik.de/
-        ** Separate Datastore - https://github.com/hotosm/sds-server
+        * Tasking Manager - http://tasks.hotosm.org/
+        * HOT Exports - http://hot-export.geofabrik.de/
+        * Separate Datastore - https://github.com/hotosm/sds-server
     Visualize/Communicate
     * Geocommons.org - http://geocommons.org
     * Ushahidi
